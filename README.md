@@ -1,74 +1,35 @@
 # CV_Example
-# Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+
+## Santiago Rodriguez
+**Profesión:** Tecnologo en gestion de mercados
+
+Soy estudiante de Gestión de Mercados en el Sena y, aunque aún no tengo experiencia laboral formal en el campo, estoy entusiasmado por aplicar mis conocimientos académicos y habilidades interpersonales en un entorno profesional. A lo largo de mis estudios, he desarrollado una comprensión sólida de los principios fundamentales del marketing, la investigación de mercado, el análisis de consumidores y la planificación estratégica.
+
+Estoy motivado/a por aprender y crecer en un entorno dinámico, y creo que mi entusiasmo, junto con mi capacidad para adaptarme rápidamente, me permitirán contribuir de manera positiva a cualquier equipo. Mi enfoque es siempre aportar ideas frescas y nuevas perspectivas mientras continúo desarrollando mis habilidades, estoy abierto a oportunidades que me permitan comenzar mi carrera  en marketing y contribuir con mi energía y creatividad a proyectos que generen un impacto significativo.
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+
+- **Email:** [3003244552santi@gmail.com](3003244552santi@gmail.com)
+- **LinkedIn:** www.linkedin.com/in/santiago-rodriguez-rojas-595ba6356
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa Dico Telecomunicaciones** _(2025 - Actualidad)_
+- Gestion de mercados
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa Zk Sport** _(2018 - 2020)_
+- Vendedor de calzado importado
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de Aprendizaje (SENA)** _(2023 - 2025)_
+- Tecnologo en gestion de mercados
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **Confiable**
+- **Comunicacion asertiva**
 
 ---
 
-## 🎨 Formatos y Fuentes Disponibles
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
