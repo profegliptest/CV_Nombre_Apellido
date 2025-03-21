@@ -10,7 +10,7 @@ Estoy motivado/a por aprender y crecer en un entorno dinámico, y creo que mi en
 
 ## 📞 Contacto
 
-- **Email:** [3003244552santi@gmail.com](3003244552santi@gmail.com)
+- **Email:** [3003244552santi@gmail.com](Mailto:3003244552santi@gmail.com)
 - **LinkedIn:** www.linkedin.com/in/santiago-rodriguez-rojas-595ba6356
 
 ## 🏢 Experiencia Laboral
